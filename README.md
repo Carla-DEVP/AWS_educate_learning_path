@@ -20,8 +20,8 @@ Este projeto faz parte da minha jornada de transição e desenvolvimento na áre
 | Ordem | Curso | Status | Data de Conclusão | Certificado |
 |---|---|---|---|---|
 | 1 | Getting Started with Compute | ✅ Concluído | | ✔️ |
-| 2 | Getting Started with Storage | ✅ Concluído | | ✔️ |
-| 3 | Getting Started with Databases | 🔄 Em andamento | | |
+| 2 | Getting Started with Storage | 🔄 Em andamento| |  |
+| 3 | Getting Started with Databases | ⬜ Não iniciado | | |
 | 4 | Getting Started with Networking | ⬜ Não iniciado | | |
 | 5 | Getting Started with Security | ⬜ Não iniciado | | |
 | 6 | Getting Started with Cloud Operations | ⬜ Não iniciado | | |
