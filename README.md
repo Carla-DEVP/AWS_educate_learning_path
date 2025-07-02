@@ -57,5 +57,5 @@ Este projeto faz parte da minha jornada de transição e desenvolvimento na áre
 
 **Obrigada por acompanhar minha jornada!**
 
-> 📧 Contato: [seu-email-aqui]  
-> 🌐 Linkedin: [Seu perfil Linkedin aqui]  
+> 📧 Contato: carlaguimaraesdemedeiros@gmail.com  
+> 🌐 Linkedin:   www.linkedin.com/in/carlaguimaraesdemedeiros
